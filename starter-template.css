@@ -1,0 +1,17 @@
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background: dodgerblue;
+}
+.navbar {
+    background-color:dodgerblue;
+}
+a.navbar-brand {
+    color: #FFFFFF;
+}
